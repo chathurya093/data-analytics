@@ -1,1 +1,1 @@
-# data-analytics using Seaborn is a library that uses Matplotlib underneath to plot graph
+# Data-analytics using Seaborn is a library that uses Matplotlib underneath to plot graph
